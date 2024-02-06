@@ -1,0 +1,10 @@
+{
+  "name": "com.unity.sponza-urp",
+  "description": "Unity remaster of the classic Sponza scene.",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "displayName": "Sponza URP",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.10"
+  }
+}
